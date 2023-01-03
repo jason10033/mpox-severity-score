@@ -16,13 +16,11 @@ main:
   #- name: Events
   #  url: event
   #  weight: 40
-  #- name: Publications
-  #  url: publication
-  #  weight: 50
+  - name: Test
+    url: www.espn.com
+    weight: 50
    - name: Contact
      url: contact
      weight: 60
-  #  - name: Download
-  #   url: https://mpoxseverityscore.com
-  #   weight: 70
+
   
