@@ -19,9 +19,12 @@ main:
   #- name: Publications
   #  url: publication
   #  weight: 50
-  - name: Contact
-    url: contact
-    weight: 60
-  - name: Home
+  #- name: Contact
+  #  url: contact
+  #  weight: 60
+    - name: Home
     url: https://voluble-capybara-87dfb8.netlify.app/
     weight: 10
+   # - name: Download MPOX-SSS
+   # url: https://voluble-capybara-87dfb8.netlify.app/
+   # weight: 10
