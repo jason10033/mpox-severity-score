@@ -20,6 +20,4 @@ Prior mpox severity scores, based on numbers of skin lesions and individual func
 
 The **MPOX Severity Scoring System (MPOX-SSS)** was developed specifically for the 2022 outbreak. 
 
-A﻿n abstract has been submitted to CROI and more information to come after CROI 2023.
-
-D﻿ownload the MPOX severity score here
+A﻿n abstract has been submitted to CROI and more information will be posted here after CROI 2023.
