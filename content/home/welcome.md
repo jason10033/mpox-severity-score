@@ -12,8 +12,6 @@ design:
   background:
     image: ""
 ---
-<br>
-
 Clinical severity scores facilitate standardized quantitative comparison of disease severity between groups of patients to understand risk factors for severe illness and evaluate treatment efficacy. 
 
 Relevant severity scoring tools provide reliable discrimination across the spectrum of illness severity and are parsimonious, easy to use, and universally applicable. 
