@@ -22,4 +22,7 @@ main:
    - name: Contact
      url: contact
      weight: 60
+    - name: Download
+     url: uploads/MPOX_SSS_V7.pdf
+     weight: 70
   
