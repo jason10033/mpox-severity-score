@@ -23,5 +23,5 @@ main:
     url: contact
     weight: 60
   - name: Home
-    url: home
+    url: https://voluble-capybara-87dfb8.netlify.app/
     weight: 10
