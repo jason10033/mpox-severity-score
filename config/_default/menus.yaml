@@ -22,7 +22,7 @@ main:
    - name: Contact
      url: contact
      weight: 60
-    - name: Download
-     url: https://mpoxseverityscore.com
-     weight: 70
+  #  - name: Download
+  #   url: https://mpoxseverityscore.com
+  #   weight: 70
   
