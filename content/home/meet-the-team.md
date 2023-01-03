@@ -9,4 +9,4 @@ active: true
 design:
   columns: "1"
 ---
-{{% cta cta_link="./assets/media/proposed-monkeypox-severity-scoring-system-v7_for_abstract.pdf/" cta_text="Meet the team →" %}}
+{{% cta cta_link="./mpox_sss/" cta_text="Meet the team →" %}}
