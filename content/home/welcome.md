@@ -25,3 +25,5 @@ The **MPOX Severity Scoring System (MPOX-SSS)** was developed specifically for t
 A﻿n abstract has been submitted to CROI and more information will be posted here after CROI 2023.
 
 {{% staticref "uploads/MPOX_SSS_V7.pdf" "newtab" %}}Download the MPOX-SSS Tool{{% /staticref %}}
+
+{style="color: red"}
