@@ -16,9 +16,6 @@ main:
   #- name: Events
   #  url: event
   #  weight: 40
-  - name: Download
-    url: # uploads/MPOX_SSS_V7.pdf
-    weight: 50
   - name: Contact
      url: contact
      weight: 60
