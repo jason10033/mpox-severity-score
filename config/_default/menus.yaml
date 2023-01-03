@@ -23,6 +23,6 @@ main:
      url: contact
      weight: 60
     - name: Download
-     url: uploads/MPOX_SSS_V7.pdf
+     url: https://mpoxseverityscore.com
      weight: 70
   
