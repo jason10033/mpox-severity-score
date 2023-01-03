@@ -16,9 +16,6 @@ main:
   #- name: Events
   #  url: event
   #  weight: 40
-  - name: Test
-    url: www.espn.com
-    weight: 50
    - name: Contact
      url: contact
      weight: 60
