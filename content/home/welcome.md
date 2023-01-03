@@ -14,8 +14,6 @@ design:
 ---
 Clinical severity scores facilitate standardized quantitative comparison of disease severity between groups of patients to understand risk factors for severe illness and evaluate treatment efficacy. 
 
-Relevant severity scoring tools provide reliable discrimination across the spectrum of illness severity and are parsimonious, easy to use, and universally applicable. 
-
 Prior mpox severity scores, based on numbers of skin lesions and individual functional capacity, have been less applicable to the 2022 outbreak.
 
 The **MPOX Severity Scoring System (MPOX-SSS)** was developed specifically for the 2022 outbreak. 
