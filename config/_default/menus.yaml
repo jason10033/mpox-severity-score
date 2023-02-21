@@ -7,17 +7,24 @@ main:
   #- name: Tour
   #  url: tour
   #  weight: 10
-  #- name: News
-  #  url: post
-  #  weight: 20
-  #- name: People
-  #  url: people
-  #  weight: 30
-  #- name: Events
-  #  url: event
-  #  weight: 40
-   - name: Contact
-     url: contact
-     weight: 50
+  - name: Monkeypox Severity Score Development and Validation
+    url: mpx_dev_val
+    weight: 20
+  - name: Tool
+    identifier: tool
+    weight: 30
+  - name: Download the tool
+    PageRef: tool/tool_dl/index.md
+    weight: 10
+    parent: tool
+  - name: Calculate online
+    PageRef: tool/tool_calc/index.md
+    weight: 20
+    parent: tool
+  - name: Team
+    url: people
+    weight: 40
+  - name: Contact
+    url: contact
+    weight: 50
 
-  
