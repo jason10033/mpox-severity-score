@@ -2,7 +2,9 @@
 title: Monkeypox Severity Score Development and Validation
 date: 2022-12-20
 ---
-**Poster #738, Presented at CROI 2023, Feb 22, 2023**
+
+<p style="text-align: center;font-size:2vw"><b>Poster #738, Presented at CROI 2023, Feb 22, 2023</b></p>
+
 <br>
 
 **BACKGROUND**
