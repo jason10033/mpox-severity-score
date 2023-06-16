@@ -21,6 +21,9 @@ main:
     PageRef: tool/tool_calc/index.md
     weight: 20
     parent: tool
+  - name: Publications
+    url: publication
+    weight: 37
   - name: Team
     url: people
     weight: 40
